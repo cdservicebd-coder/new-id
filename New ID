@@ -1,41 +1,42 @@
+ID, Name, Batch, College, Mark, Access
 123, Jamil, HSC-25, Tongi Government College, Week-1: 10/15, all
 234, Mustakim, HSC-23, Notre Dame College, , all
 345, Mahfuj, HSC-25, None, , 
-456, Jihan, HSC-24, Nawab Habibullah Model School and College, phy1-1, phy2-1, chem1-ch1, chem2-ch1, bio-ch1, bio2-ch2, ict-2, math1-ch1, math2-ch2
-MB46442378, Supti, HSC-27,, all
-MB70354436, Mayesha, HSC-27,, all
-MB45250395, Nurani, HSC-27,, all
-MB88418249, Riya, HSC-27,, all
-MB35987953, Sumaiya, HSC-27,, all
-MB45646328, Simran, HSC-27,, all
-MB61425077, Sejuti, HSC-27,, all
-MB72329020, Fatema, HSC-27,, all
-MB19888924, Mahi, HSC-27,, all
-MB63791539, Smrity, HSC-27,, all
-MB56753493, Bristy, HSC-27,, all
-MB63902652, Mafruda, HSC-27,, all
-MB29750872, Nusrat, HSC-27,, all
-MB62274186, Afrin, HSC-27,, all
-MB34363748, Sadia, HSC-27,, all
-MB73364053, Nilima, HSC-27,, all
-MB81725397, Sinthiya, HSC-27,, all
-MB74751769, Tahmina, HSC-27,, all
-MB82658665, Akhi, HSC-27,, all
-MB97305869, Saimon, HSC-27,, all
-MB31367622, Saad, HSC-27,, all
-MB34108485, Sabbir, HSC-27,, all
-MB39849954, Talha, HSC-27,, all
-MB42070934, Ratul, HSC-27,, all
-MB13226174, Kanon, HSC-27,, all
-MB70469490, Leon, HSC-27,, all
-MB32255728, Nabil, HSC-27,, all
-MB33923236, Tausif, HSC-27,, all
-MB48345588, Rubaia, HSC-27,, all
-MB16397518, Billal, HSC-28,, all
-MB45049968, Hamja, HSC-28,, all
-MB88111764, Abdullah, HSC-28,, all
-MB15491747, Maksud, HSC-28,, all
-MB26755920, Moshiur, HSC-28,, all
-MB82847618, Samin, HSC-28,, all
-MB57487651, Tafhim, HSC-28,, all
-MB62902679, Sara, HSC-27,, all
+456, Jihan, HSC-24, Nawab Habibullah Model School and College, , phy1-1, phy2-1, chem1-ch1, chem2-ch1, bio-ch1, bio2-ch2, ict-2, math1-ch1, math2-ch2
+MB46442378, Supti, HSC-27, None, , all
+MB70354436, Mayesha, HSC-27, None, , all
+MB45250395, Nurani, HSC-27, None, , all
+MB88418249, Riya, HSC-27, None, , all
+MB35987953, Sumaiya, HSC-27, None, , all
+MB45646328, Simran, HSC-27, None, , all
+MB61425077, Sejuti, HSC-27, Tongi Government College, , all
+MB72329020, Fatema, HSC-27, None, , all
+MB19888924, Mahi, HSC-27, None, , all
+MB63791539, Smrity, HSC-27, None, , all
+MB56753493, Bristy, HSC-27, None, , all
+MB63902652, Mafruda, HSC-27, None, , all
+MB29750872, Nusrat, HSC-27, None, , all
+MB62274186, Afrin, HSC-27, None, , all
+MB34363748, Sadia, HSC-27, None, , all
+MB73364053, Nilima, HSC-27, None, , all
+MB81725397, Sinthiya, HSC-27, None, , all
+MB74751769, Tahmina, HSC-27, None, , all
+MB82658665, Akhi, HSC-27, None, ,all
+MB97305869, Saimon, HSC-27, None, , all
+MB31367622, Saad, HSC-27, None, , all
+MB34108485, Sabbir, HSC-27, None, , ,all
+MB39849954, Talha, HSC-27, None, , all
+MB42070934, Ratul, HSC-27, Tongi Government College, , all
+MB13226174, Kanon, HSC-27, None, all
+MB70469490, Leon, HSC-27, None, , all
+MB32255728, Nabil, HSC-27, None, , all
+MB33923236, Tausif, HSC-27, None, , all
+MB48345588, Rubaia, HSC-27, None, , all
+MB16397518, Billal, HSC-28, None, , all
+MB45049968, Hamja, HSC-28, None, , all
+MB88111764, Abdullah, HSC-28, None, , all
+MB15491747, Maksud, HSC-28, None, , all
+MB26755920, Moshiur, HSC-28, None, , all
+MB82847618, Samin, HSC-28, None, , all
+MB57487651, Tafhim, HSC-28, None, , all
+MB62902679, Sara, HSC-27, None, , all

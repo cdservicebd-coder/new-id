@@ -3,39 +3,39 @@ ID, Name, Batch, College, Mark, Access
 234, Mustakim, HSC-23, Notre Dame College, , all
 345, Mahfuj, HSC-25, None, , all
 456, Jihan, HSC-24, Nawab Habibullah Model School and College, , phy1-1, phy2-1, chem1-ch1, chem2-ch1, bio-ch1, bio2-ch2, ict-2, math1-ch1, math2-ch2
-46442378, Supti, HSC-27, Gazipur Mohila College, 26.5, all
-70354436, Mayesha, HSC-27, Gazipur Mohila College, 8.5, all
-45250395, Nurani Sarkar Nodi, HSC-27, Gazipur Mohila College, 26.5, all
+46442378, Supti, HSC-27, Gazipur Mohila College, Weekly-2: 26.5/35, all
+70354436, Mayesha, HSC-27, Gazipur Mohila College, Weekly-2: 8.5, all
+45250395, Nurani Sarkar Nodi, HSC-27, Gazipur Mohila College, Weekly-2: 26.5/35, all
 88418249, Riya, HSC-27, Gazipur Mohila College, , all
-35987953, Sumaiya, HSC-27, Tongi Government College, 24, all
-45646328, Simran, HSC-27, Tongi Government College, 15.5, all
-61425077, Sejuti, HSC-27, Tongi Government College, 16.5, all
-72329020, Fatema, HSC-27, Tongi Government College, 17, all
-19888924, Mahi, HSC-27, Uttara High School and College, 6, all
-63791539, Smrity, HSC-27, Uttara High School and College, 15, all
-56753493, Bristy, HSC-27, Bhawal Badre Alam Govt College, 14.5, all
-63902652, Mafruda, HSC-27, Bhawal Badre Alam Govt College, 17.5, all
-29750872, Nusrat Jahan Mim, HSC-27, Bhawal Badre Alam Govt College, 28, all
-62274186, Afrin, HSC-27, Gazipur Mohila College, 18.5, all
-34363748, Sadia, HSC-27, Kazi Azim Uddin College, 12, all
+35987953, Sumaiya, HSC-27, Tongi Government College, Weekly-2: 24/35, all
+45646328, Simran, HSC-27, Tongi Government College, Weekly-2: 15.5/35, all
+61425077, Sejuti, HSC-27, Tongi Government College, Weekly-2: 16.5/35, all
+72329020, Fatema, HSC-27, Tongi Government College, Weekly-2: 17, all
+19888924, Mahi, HSC-27, Uttara High School and College, Weekly-2: 6/35, all
+63791539, Smrity, HSC-27, Uttara High School and College, Weekly-2: 15/35, all
+56753493, Bristy, HSC-27, Bhawal Badre Alam Govt College, Weekly-2: 14.5/35, all
+63902652, Mafruda, HSC-27, Bhawal Badre Alam Govt College, Weekly-2: 17.5/35, all
+29750872, Nusrat Jahan Mim, HSC-27, Bhawal Badre Alam Govt College, Weekly-2: 28/35, all
+62274186, Afrin, HSC-27, Gazipur Mohila College, Weekly-2: 18.5/35, all
+34363748, Sadia Rahman, HSC-27, Kazi Azim Uddin College, Weekly-2: 12/35, all
 73364053, Nilima, HSC-27, Shaheed Bir Uttam Lt Anwar Girls' College, , all
-81725397, Sinthiya, HSC-27, Kazi Azim Uddin College, 11, all
-74751769, Tahmina, HSC-27, Hemnagar Degree College, 12, all
+81725397, Sinthiya, HSC-27, Kazi Azim Uddin College, Weekly-2: 11/35, all
+74751769, Tahmina, HSC-27, Hemnagar Degree College, 12/35, all
 82658665, Akhi, HSC-27, Tongi Pilot School and Girls' College, ,all
-97305869, Saimon, HSC-27, Gazipur Cantonment Public School & College, 7, all
-31367622, Saad, HSC-27, Rajendrapur Cantonment Public School & College, 10, all
-34108485, Sabbir, HSC-27, Rajendrapur Cantonment Public School & College, 4,all
-39849954, Talha, HSC-27, Milestone College, 24, all
-42070934, Ratul, HSC-27, Tongi Government College, 14.5, all
-13226174, Kanon, HSC-27, Shaheed Ramiz Uddin Cantonment College, 19,all
-70469490, Leon, HSC-27, Gazipur Cantonment Public School & College, 1.5, all
-63786966, Sufian, HSC-27, Tongi Government College, 21.5, all
-32255728, Nabil, HSC-27, Shaheed Ramiz Uddin Cantonment College, 25, all
-33923236, Tausif, HSC-27, Rajendrapur Cantonment Public School & College, 2.5, all
+97305869, Saimon, HSC-27, Gazipur Cantonment Public School & College, Weekly-2: 7/35, all
+31367622, Saad, HSC-27, Rajendrapur Cantonment Public School & College, Weekly-2: 10/35, all
+34108485, Sabbir, HSC-27, Rajendrapur Cantonment Public School & College, Weekly-2: 4/35, all
+39849954, Talha, HSC-27, Milestone College, Weekly-2: 24/35, all
+42070934, Ratul, HSC-27, Tongi Government College, Weekly-2: 14.5/35, all
+13226174, Kanon, HSC-27, Shaheed Ramiz Uddin Cantonment College, Weekly-2: 19/35, all
+70469490, Leon, HSC-27, Gazipur Cantonment Public School & College, Weekly-2: 1.5/35, all
+63786966, Sufian, HSC-27, Tongi Government College, Weekly-2: 21.5/35, all
+32255728, Nabil, HSC-27, Shaheed Ramiz Uddin Cantonment College, Weekly-2: 25/35, all
+33923236, Tausif, HSC-27, Rajendrapur Cantonment Public School & College, Weekly-2: 2.5/35, all
 48345588, Rubaia, HSC-27, , , all
 96971884, Bristy Rani, HSC-27, Kamarjuri Yousuf Ali Girls College, , ict-1, ict-2, ict-3, ict-4, ict-5, ict-6, eng1-t1, eng1-t2, eng1-t3, eng1-t4, eng1-t5, eng1-t6, eng1-t7, eng1-t8, eng1-t9, eng1-t10, eng1-t11, eng1-t12, eng1-t13
-60485714, Sadia Akter, HSC-27, Kazi Azim Uddin College, 1.5, ict-1, ict-2, ict-3, ict-4, ict-5, ict-6, eng1-t1, eng1-t2, eng1-t3, eng1-t4, eng1-t5, eng1-t6, eng1-t7, eng1-t8, eng1-t9, eng1-t10, eng1-t11, eng1-t12, eng1-t13
-99499866, Nayem Islam, HSC-27, Kazi Azim Uddin College, 1, ict-1, ict-2, ict-3, ict-4, ict-5, ict-6, eng1-t1, eng1-t2, eng1-t3, eng1-t4, eng1-t5, eng1-t6, eng1-t7, eng1-t8, eng1-t9, eng1-t10, eng1-t11, eng1-t12, eng1-t13
+60485714, Sadia Akter, HSC-27, Kazi Azim Uddin College, Weekly-2: 1.5/15, ict-1, ict-2, ict-3, ict-4, ict-5, ict-6, eng1-t1, eng1-t2, eng1-t3, eng1-t4, eng1-t5, eng1-t6, eng1-t7, eng1-t8, eng1-t9, eng1-t10, eng1-t11, eng1-t12, eng1-t13
+99499866, Nayem Islam, HSC-27, Kazi Azim Uddin College, Weekly-2: 1/15, ict-1, ict-2, ict-3, ict-4, ict-5, ict-6, eng1-t1, eng1-t2, eng1-t3, eng1-t4, eng1-t5, eng1-t6, eng1-t7, eng1-t8, eng1-t9, eng1-t10, eng1-t11, eng1-t12, eng1-t13
 
 16397518, Billal, HSC-28, , ICT- 44/50(2nd), all
 45049968, Hamja, HSC-28, , ICT- 40/50(3rd), all
